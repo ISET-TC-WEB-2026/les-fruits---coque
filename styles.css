@@ -1,0 +1,129 @@
+body{
+    font-family: Arial,sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f7f3ea;
+    margin: 20px 40px;
+}
+h1{
+    color: #004080;
+    font-size: 25px;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    padding: 15px;
+    margin-bottom: 25px;
+    border: solid 3px #004080;
+    background-color:  #e8f0f8;
+}
+p{
+    width: 75%;
+    text-align: center;
+    margin: 20px 0;
+    padding: 15px 20px;
+    background-color: white;
+    border-left: solid 7px #d49a3a;
+    font-weight: 20px;
+    line-height: 18%;
+}
+nav{
+    background-color:  #004080;
+    padding: 12px;
+    display: flex;
+    justify-content: flex-end;
+}
+nav a{
+    color: white;
+    background-color: #004080 ;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 12px;
+    padding: 6px;
+}
+h2{
+     color:  #004080;
+     font-size: 25px;
+     margin-top: 35px;
+     margin-bottom: 15px;
+     padding: 8px 15px;
+     border-left: solid 6px #d49a3a;
+     background-color: #e8f0f8;
+}
+h3{
+    color:  #8a5a00;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    border-bottom: solid 1px #d49a3a;
+}
+ul {
+    width: 60%;
+    margin: 15px 38px;
+    padding: 20px 40px;
+    background-color: white;
+    border: 1px #ccc;
+    list-style-type: square;
+}
+ol{
+    width: 60%;
+    margin: 20px 40px;
+    background-color: #fff4d6;
+    border: solid 2px  #d49a3a;
+    list-style-type: upper-roman;
+}
+dl{
+    width: 70%;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: white;
+    border: dashed 2px #999;
+
+}
+dl dt{
+   color:  #004080 ;
+   font-style: italic; 
+   text-decoration: underline;
+   font-weight: bold;
+   margin-top: 10px;
+}
+#tab{
+    width: 80%;
+    margin: 25px 0;
+    background-color: white;
+    border-spacing: 7px;
+}
+caption{
+    color: #004080;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
+}
+#tab thead{
+    background-color: #004080;
+    color: white;
+    padding: 12px;
+    border: solid 1px #333;
+
+}
+td{
+    text-align: center;
+    border: solid 1px #aaa;
+}
+#tab2{
+    width: 90%;
+    margin: 30px 0;
+    background-color: khaki;
+}
+#tab2 thead{
+    background-color: #8a5a00;
+    color: white;
+    padding: 12px;
+}
+#tab2 img{
+    width: 100px;
+    height: 80px;
+    border: solid 5px  #d49a3a;
+}
+.im{
+     align-items: center;
+}
